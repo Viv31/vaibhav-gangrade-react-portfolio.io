@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vaibhav-gangrade-react-portfolio/static/css/main.01bf9754.css",
-    "main.js": "/vaibhav-gangrade-react-portfolio/static/js/main.80ef0e1b.js",
+    "main.css": "/vaibhav-gangrade-react-portfolio/static/css/main.b8831908.css",
+    "main.js": "/vaibhav-gangrade-react-portfolio/static/js/main.2af19e53.js",
     "static/js/787.f4195b18.chunk.js": "/vaibhav-gangrade-react-portfolio/static/js/787.f4195b18.chunk.js",
     "index.html": "/vaibhav-gangrade-react-portfolio/index.html",
-    "main.01bf9754.css.map": "/vaibhav-gangrade-react-portfolio/static/css/main.01bf9754.css.map",
-    "main.80ef0e1b.js.map": "/vaibhav-gangrade-react-portfolio/static/js/main.80ef0e1b.js.map",
+    "main.b8831908.css.map": "/vaibhav-gangrade-react-portfolio/static/css/main.b8831908.css.map",
+    "main.2af19e53.js.map": "/vaibhav-gangrade-react-portfolio/static/js/main.2af19e53.js.map",
     "787.f4195b18.chunk.js.map": "/vaibhav-gangrade-react-portfolio/static/js/787.f4195b18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01bf9754.css",
-    "static/js/main.80ef0e1b.js"
+    "static/css/main.b8831908.css",
+    "static/js/main.2af19e53.js"
   ]
 }
