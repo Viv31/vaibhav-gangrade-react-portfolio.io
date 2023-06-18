@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vaibhav-gangrade-react-portfolio.io/static/css/main.01bf9754.css",
-    "main.js": "/vaibhav-gangrade-react-portfolio.io/static/js/main.f1c2fdc4.js",
+    "main.js": "/vaibhav-gangrade-react-portfolio.io/static/js/main.eee3c89a.js",
     "static/js/787.f4195b18.chunk.js": "/vaibhav-gangrade-react-portfolio.io/static/js/787.f4195b18.chunk.js",
     "index.html": "/vaibhav-gangrade-react-portfolio.io/index.html",
     "main.01bf9754.css.map": "/vaibhav-gangrade-react-portfolio.io/static/css/main.01bf9754.css.map",
-    "main.f1c2fdc4.js.map": "/vaibhav-gangrade-react-portfolio.io/static/js/main.f1c2fdc4.js.map",
+    "main.eee3c89a.js.map": "/vaibhav-gangrade-react-portfolio.io/static/js/main.eee3c89a.js.map",
     "787.f4195b18.chunk.js.map": "/vaibhav-gangrade-react-portfolio.io/static/js/787.f4195b18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01bf9754.css",
-    "static/js/main.f1c2fdc4.js"
+    "static/js/main.eee3c89a.js"
   ]
 }
