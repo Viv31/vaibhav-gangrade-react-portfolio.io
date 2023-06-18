@@ -11,7 +11,7 @@ export default function Aboutme(){
 					<img src="./images/vaibhav_gangrade.jpg" className="rounded" height="80%" width="100%"/>
 				</div>
 				<div className="col-md-8 mt-4 abotme" >
-				<span>Hello I am,</span>
+				<span>Hello I am a,</span>
 				<Typewriter
 				 options={{
     			 strings: ['<span>Vaibhav Gangrade</span>', '<span>Web Developer</span>','<span>Web Designer</span>','<span>Wordpress Developer</span>','<span>Githuber</span>'],
