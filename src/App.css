@@ -4,10 +4,10 @@ body {
     color: #fff;
 }
 
-/*.container {
-    height: 500px;
+.container {
+    height: 750px;
 }
-*/
+
 .about-container-fluid {
     /*    height: 900px;*/
     background-image: url("https://img.freepik.com/free-photo/workplace-with-smartphone-laptop-black-table-top-view-copyspace-background_144627-24860.jpg?size=626&ext=jpg&ga=GA1.2.893466131.1677953191&semt=ais");
