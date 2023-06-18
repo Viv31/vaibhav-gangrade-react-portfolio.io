@@ -9,7 +9,7 @@ export default function Projects(){
                         <img className="pic-1" src="https://www.w3schools.com/bootstrap4/img_avatar5.png"/>
                         <div className="box-content">
                             <h4 className="title">CanaryCompany</h4>
-                            <img src="./images/canarycomapany.png" className="project_tech_img"/>
+                            <img src="/vaibhav-gangrade-react-portfolio/images/canarycomapany.png" className="project_tech_img"/>
                             <p className="description">
                             	<span><b>Role:</b></span><span>Developer</span><br/>
                             	<span><b>Technology:</b></span><span>WordPress</span><br/>
@@ -26,7 +26,7 @@ export default function Projects(){
                         <img className="pic-1" src="https://www.w3schools.com/bootstrap4/img_avatar4.png"/>
                         <div className="box-content">
                             <h4 className="title">EBS Colorado</h4>
-                            <img src="./images/ebs.png"/>
+                            <img src="/vaibhav-gangrade-react-portfolio/images/ebs.png"/>
                             <p className="description">
                             	<span><b>Role:</b></span><span>Developer</span><br/>
                             	<span><b>Technology:</b></span><span>WordPress</span><br/>
@@ -43,7 +43,7 @@ export default function Projects(){
                         <img className="pic-1" src="https://www.w3schools.com/bootstrap4/img_avatar3.png"/>
                         <div className="box-content">
                             <h4 className="title">EBS Colorado</h4>
-                            <img src="./images/ebs.png"/>
+                            <img src="/vaibhav-gangrade-react-portfolio/images/ebs.png"/>
                             <p className="description">
                             	<span><b>Role:</b></span><span>Developer</span><br/>
                             	<span><b>Technology:</b></span><span>WordPress</span><br/>
@@ -62,7 +62,7 @@ export default function Projects(){
                         <img className="pic-1" src="https://www.w3schools.com/bootstrap4/img_avatar5.png"/>
                         <div className="box-content">
                             <h4 className="title">EBS Colorado</h4>
-                            <img src="./images/ebs.png"/>
+                            <img src="/vaibhav-gangrade-react-portfolio/images/ebs.png"/>
                             <p className="description">
                             	<span><b>Role:</b></span><span>Developer</span><br/>
                             	<span><b>Technology:</b></span><span>WordPress</span><br/>
@@ -79,7 +79,7 @@ export default function Projects(){
                         <img className="pic-1" src="https://www.w3schools.com/bootstrap4/img_avatar4.png"/>
                         <div className="box-content">
                             <h4 className="title">EBS Colorado</h4>
-                            <img src="./images/ebs.png"/>
+                            <img src="/vaibhav-gangrade-react-portfolio/images/ebs.png"/>
                             <p className="description">
                             	<span><b>Role:</b></span><span>Developer</span><br/>
                             	<span><b>Technology:</b></span><span>WordPress</span><br/>
@@ -96,7 +96,7 @@ export default function Projects(){
                         <img className="pic-1" src="https://www.w3schools.com/bootstrap4/img_avatar3.png"/>
                        <div className="box-content">
                             <h4 className="title">EBS Colorado</h4>
-                            <img src="./images/ebs.png"/>
+                            <img src="/vaibhav-gangrade-react-portfolio/images/ebs.png"/>
                             <p className="description">
                             	<span><b>Role:</b></span><span>Developer</span><br/>
                             	<span><b>Technology:</b></span><span>WordPress</span><br/>
