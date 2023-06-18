@@ -6,7 +6,7 @@ export default function Experience(){
     <div className="main-timeline-2">
       <div className="timeline-2 left-2">
         <div className="card">
-          <img src="./images/cis.jpg" className="card-img-top" alt="Responsive image"/>
+          <img src="/vaibhav-gangrade-react-portfolio/images/cis.jpg" className="card-img-top" alt="Responsive image"/>
           <div className="card-body p-4">
             <h4 className="fw-bold mb-4">CIS</h4>
             <p className="text-white mb-4"><i className="far fa-clock" aria-hidden="true"></i> 2017</p>
@@ -18,7 +18,7 @@ export default function Experience(){
       </div>
       <div className="timeline-2 right-2">
         <div className="card">
-          <img src="./images/itvedant.png" className="card-img-top" alt="Responsive image"/>
+          <img src="/vaibhav-gangrade-react-portfolio/images/itvedant.png" className="card-img-top" alt="Responsive image"/>
           <div className="card-body p-4">
             <h4 className="fw-bold mb-4">IT Vedant</h4>
             <p className="text-white mb-4"><i className="far fa-clock" aria-hidden="true"></i> 2016</p>
@@ -32,7 +32,7 @@ export default function Experience(){
       </div>
       <div className="timeline-2 left-2">
         <div className="card">
-          <img src="./images/brillsense.jpg" className="card-img-top" alt="Responsive image"/>
+          <img src="/vaibhav-gangrade-react-portfolio/images/brillsense.jpg" className="card-img-top" alt="Responsive image"/>
           <div className="card-body p-4">
             <h4 className="fw-bold mb-4">Brillsense</h4>
             <p className="text-white mb-4"><i className="far fa-clock" aria-hidden="true"></i> 2017</p>
@@ -44,7 +44,7 @@ export default function Experience(){
       </div>
       <div className="timeline-2 right-2">
          <div className="card">
-          <img src="./images/eway.jpg" className="card-img-top" alt="Responsive image"/>
+          <img src="/vaibhav-gangrade-react-portfolio/images/eway.jpg" className="card-img-top" alt="Responsive image"/>
           <div className="card-body p-4">
             <h4 className="fw-bold mb-4">IT Vedant</h4>
             <p className="text-white mb-4"><i className="far fa-clock" aria-hidden="true"></i> 2016</p>
@@ -58,7 +58,7 @@ export default function Experience(){
       </div>
       <div className="timeline-2 left-2">
         <div className="card">
-          <img src="./images/handk.png" className="card-img-top" alt="Responsive image"/>
+          <img src="/vaibhav-gangrade-react-portfolio/images/handk.png" className="card-img-top" alt="Responsive image"/>
           <div className="card-body p-4">
             <h4 className="fw-bold mb-4">CIS</h4>
             <p className="text-white mb-4"><i className="far fa-clock" aria-hidden="true"></i> 2017</p>
