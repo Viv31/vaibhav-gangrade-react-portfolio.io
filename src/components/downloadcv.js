@@ -7,7 +7,7 @@ export default function DownloadCV(){
 				<div className="row">
 					<div className="col-md-4 education_div"></div>
 					<div className="col-md-4 download_btn_div">
-					<a href="./images/Vaibhav_Gangrade_web_Developer.docx" className="btn btn-primary btn-lg download_cv">Download CV</a>
+					<a href="/vaibhav-gangrade-react-portfolio/images/Vaibhav_Gangrade_web_Developer.docx" className="btn btn-primary btn-lg download_cv">Download CV</a>
 					<span id="no_of_downloaded_cv"></span>
 					</div>
 					<div className="col-md-4 education_div"></div>
