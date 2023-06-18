@@ -8,7 +8,7 @@ export default function Aboutme(){
 		<div className="container">
 			<div className="row aboutrow mt-4">
 				<div className="col-md-4 mt-4">
-					<img src="./images/vaibhav_gangrade.jpg" className="rounded" height="80%" width="100%"/>
+					<img src="/vaibhav-gangrade-react-portfolio.io/images/vaibhav_gangrade.jpg" className="rounded" height="80%" width="100%"/>
 				</div>
 				<div className="col-md-8 mt-4 abotme" >
 				<span>Hello I am a,</span>
