@@ -22,9 +22,9 @@ export default function Achievements(){
 					</ul>
 					</div>
 					</div>
-					<div className="row mt-4">
+					<div className="row mt-4 text-center">
 					<div className="col-md-4">
-					<span className="text-white text-center">Github Projects</span>
+					<span className="text-white text-center git_project">Github Projects</span>
 					<h1 className="text-white text-center">109</h1>
 					</div>
 					<div className="col-md-4">

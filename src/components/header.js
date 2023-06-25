@@ -1,7 +1,7 @@
 import {BrowserRouter, Routes, Route, Link} from 'react-router-dom';
 export default function Header(){
 	return(
-		<nav className="navbar navbar-expand-sm bg-dark navbar-dark ">
+		<nav className="navbar navbar-expand-sm bg-dark navbar-dark text-white">
         <div className="container-fluid">
          <Link className="" to="/"><img src="/vaibhav-gangrade-react-portfolio/images/vaibhav_gangrade.jpg" className="rounded-circle" height="50" width="50"/></Link>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">

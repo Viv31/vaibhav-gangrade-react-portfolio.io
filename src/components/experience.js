@@ -1,7 +1,7 @@
 import { useNavigate } from "react-router-dom";
 export default function Experience(){
 	return (
-		<section>
+		<section className="exp">
   <div className="container py-5">
     <div className="main-timeline-2">
       <div className="timeline-2 left-2">

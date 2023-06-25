@@ -3,16 +3,16 @@
 		<div className="container-fluid software-skills-container-fluid">
 			<div className="container">
 			<h1>Skills</h1>
+				
 				<div className="row">
-					<div className="col text-center">
-        <div id="fluid-meter" className="mx-auto"></div>
-       </div>
-      <div className="col text-center">
-        <div id="fluid-meter-2"></div>
-       </div>
-      <div className="col  text-center">
-        <div id="fluid-meter-3"></div>
-      </div>
+					<div className="col-md-6">
+					<div className="progress-bar progress-bar-striped progress-bar-animated html">HTML</div>
+					<div className="progress-bar progress-bar-striped progress-bar-animated" ></div>
+					<div className="progress-bar progress-bar-striped progress-bar-animated" ></div>
+					<div className="progress-bar progress-bar-striped progress-bar-animated" ></div>
+					<div className="progress-bar progress-bar-striped progress-bar-animated" ></div>
+					</div>
+					<div className="col-md-6"></div>
 				</div>
 			</div>
 		</div>

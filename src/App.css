@@ -209,6 +209,7 @@ style={{"background":"linear-gradient(0deg, rgba(1, 1, 1, 0.3), rgba(0, 0, 0, 0.
     color: #fff;
     border: 1px solid #fff;
     box-shadow: 5px 5px 5px #000;
+
 }
 
 .card-body.p-4 {
@@ -540,3 +541,16 @@ PROJECT SECTION STARTS HERE
     }
 }
 /*Projects section ends here*/
+
+
+.exp .card{
+    margin-bottom: 100px;
+}
+
+.git_project{
+    text-align: center!important;
+}
+
+.html{
+    width: 90%;
+}
