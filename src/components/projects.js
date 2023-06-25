@@ -8,7 +8,7 @@ export default function Projects(){
                     <div className="box21">
                         <img className="pic-1" src="https://www.w3schools.com/bootstrap4/img_avatar5.png"/>
                         <div className="box-content">
-                            <h4 className="title">CanaryCompany</h4>
+                            <h4 className="title">Project1</h4>
                             <img src="/vaibhav-gangrade-react-portfolio/images/canarycomapany.png" className="project_tech_img"/>
                             <p className="description">
                             	<span><b>Role:</b></span><span>Developer</span><br/>
@@ -17,7 +17,7 @@ export default function Projects(){
                             	
 
                             </p>
-                            <a className="read-more" href="https://canarycompany.com/">Visit Site</a>
+                            <a className="read-more" href="/">Visit Site</a>
                         </div>
                     </div>
                 </div>
@@ -25,7 +25,7 @@ export default function Projects(){
                     <div className="box21">
                         <img className="pic-1" src="https://www.w3schools.com/bootstrap4/img_avatar4.png"/>
                         <div className="box-content">
-                            <h4 className="title">EBS Colorado</h4>
+                            <h4 className="title">Project1</h4>
                             <img src="/vaibhav-gangrade-react-portfolio/images/ebs.png"/>
                             <p className="description">
                             	<span><b>Role:</b></span><span>Developer</span><br/>
@@ -34,7 +34,7 @@ export default function Projects(){
                             	<span><b>Role:</b></span><span>Developer</span>
 
                             </p>
-                            <a className="read-more" href="https://canarycompany.com/">Visit Site</a>
+                            <a className="read-more" href="/">Visit Site</a>
                         </div>
                     </div>
                 </div>
@@ -42,7 +42,7 @@ export default function Projects(){
                     <div className="box21">
                         <img className="pic-1" src="https://www.w3schools.com/bootstrap4/img_avatar3.png"/>
                         <div className="box-content">
-                            <h4 className="title">EBS Colorado</h4>
+                            <h4 className="title">Project1</h4>
                             <img src="/vaibhav-gangrade-react-portfolio/images/ebs.png"/>
                             <p className="description">
                             	<span><b>Role:</b></span><span>Developer</span><br/>
@@ -51,7 +51,7 @@ export default function Projects(){
                             	<span><b>Role:</b></span><span>Developer</span>
 
                             </p>
-                            <a className="read-more" href="https://canarycompany.com/">Visit Site</a>
+                            <a className="read-more" href="/">Visit Site</a>
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@ export default function Projects(){
                     <div className="box21">
                         <img className="pic-1" src="https://www.w3schools.com/bootstrap4/img_avatar5.png"/>
                         <div className="box-content">
-                            <h4 className="title">EBS Colorado</h4>
+                            <h4 className="title">Project1</h4>
                             <img src="/vaibhav-gangrade-react-portfolio/images/ebs.png"/>
                             <p className="description">
                             	<span><b>Role:</b></span><span>Developer</span><br/>
@@ -70,7 +70,7 @@ export default function Projects(){
                             	<span><b>Role:</b></span><span>Developer</span>
 
                             </p>
-                            <a className="read-more" href="https://canarycompany.com/">Visit Site</a>
+                            <a className="read-more" href="/">Visit Site</a>
                         </div>
                     </div>
                 </div>
@@ -78,7 +78,7 @@ export default function Projects(){
                     <div className="box21">
                         <img className="pic-1" src="https://www.w3schools.com/bootstrap4/img_avatar4.png"/>
                         <div className="box-content">
-                            <h4 className="title">EBS Colorado</h4>
+                            <h4 className="title">Project1</h4>
                             <img src="/vaibhav-gangrade-react-portfolio/images/ebs.png"/>
                             <p className="description">
                             	<span><b>Role:</b></span><span>Developer</span><br/>
@@ -87,7 +87,7 @@ export default function Projects(){
                             	<span><b>Role:</b></span><span>Developer</span>
 
                             </p>
-                            <a className="read-more" href="https://canarycompany.com/">Visit Site</a>
+                            <a className="read-more" href="/">Visit Site</a>
                         </div>
                     </div>
                 </div>
@@ -95,7 +95,7 @@ export default function Projects(){
                     <div className="box21">
                         <img className="pic-1" src="https://www.w3schools.com/bootstrap4/img_avatar3.png"/>
                        <div className="box-content">
-                            <h4 className="title">EBS Colorado</h4>
+                            <h4 className="title">Project1</h4>
                             <img src="/vaibhav-gangrade-react-portfolio/images/ebs.png"/>
                             <p className="description">
                             	<span><b>Role:</b></span><span>Developer</span><br/>
@@ -104,7 +104,7 @@ export default function Projects(){
                             	<span><b>Role:</b></span><span>Developer</span>
 
                             </p>
-                            <a className="read-more" href="https://canarycompany.com/">Visit Site</a>
+                            <a className="read-more" href="/">Visit Site</a>
                         </div>
                     </div>
                 </div>
