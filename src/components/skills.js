@@ -1,22 +1,37 @@
- function Skills(){
-	return (
-		<div className="container-fluid software-skills-container-fluid">
-			<div className="container">
-			<h1>Skills</h1>
-				
-				<div className="row">
-					<div className="col-md-6">
-					<div className="progress-bar progress-bar-striped progress-bar-animated html">HTML</div>
-					<div className="progress-bar progress-bar-striped progress-bar-animated" ></div>
-					<div className="progress-bar progress-bar-striped progress-bar-animated" ></div>
-					<div className="progress-bar progress-bar-striped progress-bar-animated" ></div>
-					<div className="progress-bar progress-bar-striped progress-bar-animated" ></div>
-					</div>
-					<div className="col-md-6"></div>
-				</div>
-			</div>
-		</div>
-		
-	)
+import React from 'react';
+import LiquidGauge from 'react-liquid-gauge';
+import portfolio_data from './jsondata/portfolio_data';
+function Skills() {
+  const {skillsData}=portfolio_data;
+
+  return (
+  	<>
+    <div className="container-fluid software-skills-container-fluid">
+      <div className="container">
+        <h1>Skills</h1>
+		<div className="row">
+          {skillsData.map((skill, index) => (
+              <div className="col-md-2 skill-section">
+              <div key={index} style={{marginBottom: '10px' }}>
+                <LiquidGauge
+                  width={120}
+                  height={120}
+                  value={skill.value}
+                  label={skill.label}
+                  circleColor={skill.circleColor}
+                  waveColor={skill.waveColor}
+                />
+              </div>
+              <span>{skill.label}</span>
+               </div>
+            ))}
+         
+          
+        </div>
+      </div>
+    </div>
+    </>
+  );
 }
-export default Skills
+
+export default Skills;

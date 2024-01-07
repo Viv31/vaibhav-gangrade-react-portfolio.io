@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://img.freepik.com/free-photo/workplace-with-smartphone-laptop-black-table-top-view-copyspace-background_144627-24860.jpg?size=626&ext=jpg&ga=GA1.2.893466131.1677953191&semt=ais");
+    background-image: url("../public/images/table-laptop.jpg");
     background-size: cover;
     color: #fff;
 }
@@ -10,7 +10,7 @@ body {
 
 .about-container-fluid {
     /*    height: 900px;*/
-    background-image: url("https://img.freepik.com/free-photo/workplace-with-smartphone-laptop-black-table-top-view-copyspace-background_144627-24860.jpg?size=626&ext=jpg&ga=GA1.2.893466131.1677953191&semt=ais");
+    background-image: url("../public/images/table-laptop.jpg");
     background-size: cover;
 }
 
@@ -39,45 +39,58 @@ style={{"background":"linear-gradient(0deg, rgba(1, 1, 1, 0.3), rgba(0, 0, 0, 0.
 }
 
 .education-container-fluid {
-    background-image: url("https://img.freepik.com/free-photo/top-view-laptop-with-diploma-academic-cap_23-2148756573.jpg?w=900&t=st=1686414097~exp=1686414697~hmac=7a81fa665c107499b9c10087cf39b01257a901258de459b6174b6927a4ad2692");
+    background-image: url("../public/images/diploma.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .software-skills-container-fluid {
-    background-image: url("https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?size=626&ext=jpg&ga=GA1.1.893466131.1677953191&semt=ais");
+    /*background-image: url("../public/images/skills.jpg");
     background-size: cover;
-    background-position: center;
+    background-position: center;*/
+    background:linear-gradient(0deg, rgba(1, 1, 1, 0.3), 
+        rgba(0, 0, 0, 0.3)),
+    url('../public/images/skills.jpg');
+   background-size: cover;
 }
 
 .projects-container-fluid {
-    background-image: url("https://img.freepik.com/free-photo/african-american-engineer-programming-app-code-developing-online-software-with-cloud-server-firewall-security-coding-new-user-interface-with-binary-code-html-program-web-development_482257-49867.jpg?size=626&ext=jpg&ga=GA1.1.893466131.1677953191&semt=ais");
+    background-image: url("../public/images/laptoptyping.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .hobby-container-fluid {
-    background-image: url("https://img.freepik.com/free-photo/closeup-table-with-people-playing-chess-tournament_181624-61117.jpg?size=626&ext=jpg&ga=GA1.1.893466131.1677953191&semt=ais");
+    background-image: url("../public/images/chessbg.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .achievements-container-fluid {
-    background-image: url("https://img.freepik.com/free-photo/businessman-suit-putting-last-piece-pyramid-using-wooden-blocks_181624-47103.jpg?size=626&ext=jpg&ga=GA1.2.893466131.1677953191&semt=sph");
+/*    background-image: url("https://img.freepik.com/free-photo/businessman-suit-putting-last-piece-pyramid-using-wooden-blocks_181624-47103.jpg?size=626&ext=jpg&ga=GA1.2.893466131.1677953191&semt=sph");*/
+background-image: url("../public/images/golden-trophy-concrete-background-3d-rendering_56345-512.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .contact-us-container-fluid {
-    background: rgba(0, 0, 0, 0.7), url("https://img.freepik.com/free-photo/connect-incoming-call-communication-concept_53876-125112.jpg?size=626&ext=jpg&ga=GA1.1.893466131.1677953191&semt=ais");
+    background: rgba(0, 0, 0, 0.7), url("../public/images/connect.jpg");
     background-size: cover;
     background-position: center;
 }
 .cv-container-fluid {
-    background-image: url("https://img.freepik.com/free-photo/curriculum-vitae-resume-job-application-concept_53876-122482.jpg?size=626&ext=jpg&ga=GA1.2.893466131.1677953191&semt=ais");
+    background-image: url("../public/images/cv.jpg");
     background-size: cover;
     background-position: center;
 }
+
+/*Hobby*/
+.card.hobby_div {
+    border-top-left-radius: 30%!important;
+    border-bottom-right-radius: 30%!important;
+}
+
+
 
 /*Footer Section CSS*/
 .footer {
@@ -553,4 +566,9 @@ PROJECT SECTION STARTS HERE
 
 .html{
     width: 90%;
+}
+
+.skill-section span{
+    text-align: right;
+    
 }

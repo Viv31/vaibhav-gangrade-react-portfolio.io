@@ -1,5 +1,6 @@
 // import logo from './logo.svg';
 import {BrowserRouter, Routes, Route, Link} from 'react-router-dom';
+import portfolio_data from './components/jsondata/portfolio_data';
 import './App.css';
 import Header from './components/header';
 import Aboutme from './components/aboutme';

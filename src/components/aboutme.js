@@ -1,7 +1,9 @@
 import { useNavigate } from "react-router-dom";
 import React from 'react';
 import Typewriter from "typewriter-effect";
+import portfolio_data from './jsondata/portfolio_data';
 export default function Aboutme(){
+	const { introduction } = portfolio_data;
 
 	return (
 		<div className="container-fluid about-container-fluid">
@@ -11,17 +13,17 @@ export default function Aboutme(){
 					<img src="/vaibhav-gangrade-react-portfolio/images/vaibhav_gangrade.jpg" className="rounded" height="80%" width="100%"/>
 				</div>
 				<div className="col-md-8 mt-4 abotme" >
-				<span>Hello I am a,</span>
+				<span>Hello I am,</span>
 				<Typewriter
 				 options={{
-    			 strings: ['<span>Vaibhav Gangrade</span>', '<span>Web Developer</span>','<span>Web Designer</span>','<span>Wordpress Developer</span>','<span>Githuber</span>'],
+    			 strings: ['<span>Vaibhav Gangrade</span>', '<span>A Web Developer</span>','<span>A Web Designer</span>','<span>A Wordpress Developer</span>','<span>A Githuber</span>'],
     			 autoStart: true,
     			 loop: true,
   				}}
 				/>
 				<Typewriter
 				 options={{
-    			 strings: ['<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>'],
+    			 strings: [`<p>${introduction}</p>`],
     			 autoStart: true,
     			 loop: true,
   				}}
