@@ -25,7 +25,11 @@ function Skills() {
               <span>{skill.label}</span>
                </div>
             ))}
+<<<<<<< HEAD
       </div>
+=======
+         </div>
+>>>>>>> main
       </div>
     </div>
     </>
