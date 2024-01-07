@@ -25,9 +25,7 @@ function Skills() {
               <span>{skill.label}</span>
                </div>
             ))}
-         
-          
-        </div>
+      </div>
       </div>
     </div>
     </>

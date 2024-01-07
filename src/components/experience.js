@@ -3,7 +3,6 @@ import portfolio_data from './jsondata/portfolio_data';
 
 export default function Experience() {
   const { workExperienceData } = portfolio_data;
-  
   return (
     <>
       <section className="exp">
