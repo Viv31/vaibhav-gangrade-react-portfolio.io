@@ -1,6 +1,4 @@
-// import logo from './logo.svg';
-import {BrowserRouter, Routes, Route, Link} from 'react-router-dom';
-import portfolio_data from './components/jsondata/portfolio_data';
+import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import './App.css';
 import Header from './components/header';
 import Aboutme from './components/aboutme';
@@ -14,16 +12,13 @@ import Contactme from './components/contactme';
 import DownloadCV from './components/downloadcv';
 import Footer from './components/footer';
 
-
-
 function App() {
   return (
     <div className="App">
       <BrowserRouter>
-       <Header/>
+        <Header />
         <Routes>
-        <Route exact path="/" component={<Aboutme />} />
-          <Route index element={<Aboutme />} />
+          <Route path="/" element={<Aboutme />} />
           <Route path="/experience" element={<Experience />} />
           <Route path="/education" element={<Education />} />
           <Route path="/skills" element={<Skills />} />
@@ -32,11 +27,10 @@ function App() {
           <Route path="/achievements" element={<Achievements />} />
           <Route path="/contactme" element={<Contactme />} />
           <Route path="/downloadcv" element={<DownloadCV />} />
-          <Route path="/header" element={<Header/>} />
-          
+          {/* Additional routes as needed */}
         </Routes>
       </BrowserRouter>
-      <Footer/>
+      <Footer />
     </div>
   );
 }
