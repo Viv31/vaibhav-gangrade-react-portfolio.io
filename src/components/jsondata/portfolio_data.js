@@ -33,7 +33,7 @@ const portfolio_data = {
   		1)Project Understanding
   		2)Project Devlopment
   		3)Bugs resolve and enchancement
-  		4)Client Reporting via different reporting tools and sype`,
+  		4)Client Reporting via different reporting tools and skype`,
   		companyLink:"https://www.cisin.com/"
   	},
   	{
@@ -45,7 +45,7 @@ const portfolio_data = {
   		1)Project Understanding
   		2)Project Devlopment
   		3)Bugs resolve and enchancement
-  		4)Client Reporting via different reporting tools and sype`,
+  		4)Client Reporting via different reporting tools and skype`,
   		companyLink:"https://www.cisin.com/"
   	},
   	{
@@ -57,7 +57,7 @@ const portfolio_data = {
   		1)Project Understanding
   		2)Project Devlopment
   		3)Bugs resolve and enchancement
-  		4)Client Reporting via different reporting tools and sype`,
+  		4)Client Reporting via different reporting tools and skype`,
   		companyLink:"https://www.cisin.com/"
   	},
   	{
@@ -69,7 +69,7 @@ const portfolio_data = {
   		1)Project Understanding
   		2)Project Devlopment
   		3)Bugs resolve and enchancement
-  		4)Client Reporting via different reporting tools and sype`,
+  		4)Client Reporting via different reporting tools and skype`,
   		companyLink:"https://www.cisin.com/"
   	},
   	{
@@ -81,7 +81,7 @@ const portfolio_data = {
   		1)Project Understanding
   		2)Project Devlopment
   		3)Bugs resolve and enchancement
-  		4)Client Reporting via different reporting tools and sype`,
+  		4)Client Reporting via different reporting tools and skype`,
   		companyLink:"https://www.cisin.com/"
   	},
   ],
