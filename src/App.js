@@ -15,7 +15,7 @@ import Footer from './components/footer';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="/vaibhav-gangrade-react-portfolio">
         <Header />
         <Routes>
           <Route path="/" element={<Aboutme />} />
