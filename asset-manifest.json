@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/vaibhav-gangrade-react-portfolio/static/css/main.1e499c4d.css",
-    "main.js": "/vaibhav-gangrade-react-portfolio/static/js/main.2af19e53.js",
+    "main.css": "/vaibhav-gangrade-react-portfolio/static/css/main.66e5704e.css",
+    "main.js": "/vaibhav-gangrade-react-portfolio/static/js/main.83261db4.js",
     "static/js/787.f4195b18.chunk.js": "/vaibhav-gangrade-react-portfolio/static/js/787.f4195b18.chunk.js",
+    "static/media/skills.jpg": "/vaibhav-gangrade-react-portfolio/static/media/skills.9a2c60fa54b58dec0efd.jpg",
+    "static/media/diploma.jpg": "/vaibhav-gangrade-react-portfolio/static/media/diploma.7c51d6d306f3c02168ef.jpg",
+    "static/media/cv.jpg": "/vaibhav-gangrade-react-portfolio/static/media/cv.55f2fd958f985cb95cd7.jpg",
+    "static/media/golden-trophy-concrete-background-3d-rendering_56345-512.jpg": "/vaibhav-gangrade-react-portfolio/static/media/golden-trophy-concrete-background-3d-rendering_56345-512.cd2909af6fbea2395ca5.jpg",
+    "static/media/table-laptop.jpg": "/vaibhav-gangrade-react-portfolio/static/media/table-laptop.f6f11a2500ed94bd4a97.jpg",
+    "static/media/connect.jpg": "/vaibhav-gangrade-react-portfolio/static/media/connect.81ae284d31fb728f83ef.jpg",
+    "static/media/laptoptyping.jpg": "/vaibhav-gangrade-react-portfolio/static/media/laptoptyping.ba0382e96d67ca23fae4.jpg",
+    "static/media/chessbg.jpg": "/vaibhav-gangrade-react-portfolio/static/media/chessbg.ef193a35f72b8672108a.jpg",
     "index.html": "/vaibhav-gangrade-react-portfolio/index.html",
-    "main.1e499c4d.css.map": "/vaibhav-gangrade-react-portfolio/static/css/main.1e499c4d.css.map",
-    "main.2af19e53.js.map": "/vaibhav-gangrade-react-portfolio/static/js/main.2af19e53.js.map",
+    "main.66e5704e.css.map": "/vaibhav-gangrade-react-portfolio/static/css/main.66e5704e.css.map",
+    "main.83261db4.js.map": "/vaibhav-gangrade-react-portfolio/static/js/main.83261db4.js.map",
     "787.f4195b18.chunk.js.map": "/vaibhav-gangrade-react-portfolio/static/js/787.f4195b18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e499c4d.css",
-    "static/js/main.2af19e53.js"
+    "static/css/main.66e5704e.css",
+    "static/js/main.83261db4.js"
   ]
 }
