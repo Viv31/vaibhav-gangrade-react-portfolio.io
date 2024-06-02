@@ -13,8 +13,8 @@ const portfolio_data = {
     { label: "AJAX", value: 75, circleColor: "#FF5722", waveColor: "#E64A19" },
     { label: "MVC.Net", value: 75, circleColor: "#FF5722", waveColor: "#E64A19" },
     { label: "Angular", value: 70, circleColor: "#FF5722", waveColor: "#E64A19" },
-    { label: "React", value: 50, circleColor: "#FF5722", waveColor: "#E64A19" },
-    { label: "Node", value: 50, circleColor: "#FF5722", waveColor: "#E64A19" },
+    { label: "React", value: 70, circleColor: "#FF5722", waveColor: "#E64A19" },
+    { label: "Node", value: 60, circleColor: "#FF5722", waveColor: "#E64A19" },
     { label: "Laravel", value: 55, circleColor: "#FF5722", waveColor: "#E64A19" },
     { label: "CI", value: 60, circleColor: "#FF5722", waveColor: "#E64A19" },
     { label: "SEO", value: 75, circleColor: "#FF5722", waveColor: "#E64A19" },
@@ -29,10 +29,10 @@ const portfolio_data = {
   		companyname:"CIS(Cyber Infrastructure",
   		cardAlignmentClass:"right-2",
   		WorkDuration:"FEB 2021-Now",
-  		WorkDescription:`Working as a wordpress developer and responsible for the followoing process in the project like:
+  		WorkDescription:`Working as a software developer and responsible for the followoing process in the project like:
   		1)Project Understanding
   		2)Project Devlopment
-  		3)Bugs resolve and enchancement
+  		3)Bugs Fixing and enchancement
   		4)Client Reporting via different reporting tools and skype`,
   		companyLink:"https://www.cisin.com/"
   	},
@@ -45,7 +45,9 @@ const portfolio_data = {
   		1)Project Understanding
   		2)Project Devlopment
   		3)Bugs resolve and enchancement
-  		4)Client Reporting via different reporting tools and skype`,
+  		4)Client Reporting via different reporting tools and skype
+      5)SEO management
+      6)Page optimisation & keywords research `,
   		companyLink:"https://www.cisin.com/"
   	},
   	{

@@ -569,6 +569,11 @@ PROJECT SECTION STARTS HERE
 }
 
 .skill-section span{
-    text-align: right;
+   margin-left: 25%;
     
+}
+
+.achievements_div ul li {
+    line-height: 27px;
+    color: f2f2f2;
 }

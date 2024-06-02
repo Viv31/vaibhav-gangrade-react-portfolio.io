@@ -9,7 +9,7 @@ export default function Contactme(){
 					<img src="https://img.freepik.com/free-photo/logo-design-contact-us-word_53876-124028.jpg?w=740&t=st=1686487722~exp=1686488322~hmac=53c870e65ec7fb286e999bb964b873c5812f9b77537b4fb7be996e55a60ecd94" width="100%"/>
 					</div>
 					<div className="col-md-4 contact_div">
-					<p>Still you wwant to more about me,you can contact me on below links:</p>
+					<p>Still you want to know more about me,you can contact me on below links:</p>
 					<ul>
 						<li><a href="https://www.facebook.com/vaibhav.gangrade.9" className="btn btn-primary fb mb-2 socail_btn" target="_blank">  Facebbok</a></li>
 						<li><a href="https://www.instagram.com/mp_13_lover/" className="btn btn-primary insta mb-2 socail_btn" target="_blank"> Instagram</a></li>
