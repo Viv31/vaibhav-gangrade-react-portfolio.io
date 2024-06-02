@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vaibhav-gangrade-react-portfolio/static/css/main.66e5704e.css",
-    "main.js": "/vaibhav-gangrade-react-portfolio/static/js/main.83261db4.js",
+    "main.js": "/vaibhav-gangrade-react-portfolio/static/js/main.1df3b8cd.js",
     "static/js/787.f4195b18.chunk.js": "/vaibhav-gangrade-react-portfolio/static/js/787.f4195b18.chunk.js",
     "static/media/skills.jpg": "/vaibhav-gangrade-react-portfolio/static/media/skills.9a2c60fa54b58dec0efd.jpg",
     "static/media/diploma.jpg": "/vaibhav-gangrade-react-portfolio/static/media/diploma.7c51d6d306f3c02168ef.jpg",
@@ -13,11 +13,11 @@
     "static/media/chessbg.jpg": "/vaibhav-gangrade-react-portfolio/static/media/chessbg.ef193a35f72b8672108a.jpg",
     "index.html": "/vaibhav-gangrade-react-portfolio/index.html",
     "main.66e5704e.css.map": "/vaibhav-gangrade-react-portfolio/static/css/main.66e5704e.css.map",
-    "main.83261db4.js.map": "/vaibhav-gangrade-react-portfolio/static/js/main.83261db4.js.map",
+    "main.1df3b8cd.js.map": "/vaibhav-gangrade-react-portfolio/static/js/main.1df3b8cd.js.map",
     "787.f4195b18.chunk.js.map": "/vaibhav-gangrade-react-portfolio/static/js/787.f4195b18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66e5704e.css",
-    "static/js/main.83261db4.js"
+    "static/js/main.1df3b8cd.js"
   ]
 }
