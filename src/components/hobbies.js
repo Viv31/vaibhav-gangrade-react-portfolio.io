@@ -2,10 +2,10 @@ import { useNavigate } from "react-router-dom";
 export default function Hobbies(){
 	return (
 		<div className="container-fluid hobby-container-fluid">
-			<div className="container hobby_container">
+			<div className="container hobby_container mb-2">
 			<h1>Hobbies</h1>
 				<div className="row">
-					<div className="col-md-4 " >
+					<div className="col-md-4">
 						<div className="card hobby_div" style={{"background":"linear-gradient(0deg, rgba(1, 1, 1, 0.3), rgba(0, 0, 0, 0.3)),url('https://img.freepik.com/free-photo/business-strategy-concept-with-figures-chessboard-foggy-wooden-table-side-view_176474-9267.jpg?size=626&ext=jpg&ga=GA1.1.893466131.1677953191&semt=sph')","backgroundSize":"cover"}}>
 							  <div className="card-header"></div>
 						<div className="card-body">
@@ -64,6 +64,7 @@ export default function Hobbies(){
 						</div>
 					</div>
 				</div>
+				<br/><br/><br/>
 			</div>
 		</div>
 	)

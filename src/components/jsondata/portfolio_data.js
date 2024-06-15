@@ -6,8 +6,8 @@ const portfolio_data = {
   skillsData: [
     { label: "HTML", value: 95, circleColor: "#4CAF50", waveColor: "#45a049" },
     { label: "CSS", value: 90, circleColor: "#2196F3", waveColor: "#1976D2" },
-    { label: "JS", value: 75, circleColor: "#FF9800", waveColor: "#FF5722" },
-    { label: "Bootstrap", value: 95, circleColor: "#9C27B0", waveColor: "#673AB7" },
+    { label: "JS", value: 75, circleColor: "#FF6F61", waveColor: "#FF6F61" },
+    { label: "Bootstrap", value: 95, circleColor: "#61DBFB", waveColor: "#264de4" },
     { label: "PHP", value: 85, circleColor: "#FF5722", waveColor: "#E64A19" },
     { label: "Wordpress", value: 95, circleColor: "#FF5722", waveColor: "#E64A19" },
     { label: "AJAX", value: 75, circleColor: "#FF5722", waveColor: "#E64A19" },
@@ -33,7 +33,7 @@ const portfolio_data = {
   		1)Project Understanding
   		2)Project Devlopment
   		3)Bugs resolve and enchancement
-  		4)Client Reporting via different reporting tools and sype`,
+  		4)Client Reporting via different reporting tools and skype`,
   		companyLink:"https://www.cisin.com/"
   	},
   	{
@@ -45,43 +45,43 @@ const portfolio_data = {
   		1)Project Understanding
   		2)Project Devlopment
   		3)Bugs resolve and enchancement
-  		4)Client Reporting via different reporting tools and sype`,
+  		4)Client Reporting via different reporting tools and skype`,
   		companyLink:"https://www.cisin.com/"
   	},
   	{
   		companyImg:"/vaibhav-gangrade-react-portfolio/images/brillsense.jpg",
-  		companyname:"ITVedant Pvt Limited",
+  		companyname:"Brillsense Pvt Limited",
   		cardAlignmentClass:"right-2",
   		WorkDuration:"June 2020-Dec 2020",
   		WorkDescription:`Working as a wordpress developer and responsible for the followoing process in the project like:
   		1)Project Understanding
   		2)Project Devlopment
   		3)Bugs resolve and enchancement
-  		4)Client Reporting via different reporting tools and sype`,
+  		4)Client Reporting via different reporting tools and skype`,
   		companyLink:"https://www.cisin.com/"
   	},
   	{
   		companyImg:"/vaibhav-gangrade-react-portfolio/images/eway.jpg",
-  		companyname:"ITVedant Pvt Limited",
+  		companyname:"e-way It Solutions",
   		cardAlignmentClass:"left-2",
   		WorkDuration:"June 2020-Dec 2020",
   		WorkDescription:`Working as a wordpress developer and responsible for the followoing process in the project like:
   		1)Project Understanding
   		2)Project Devlopment
   		3)Bugs resolve and enchancement
-  		4)Client Reporting via different reporting tools and sype`,
+  		4)Client Reporting via different reporting tools and skype`,
   		companyLink:"https://www.cisin.com/"
   	},
   	{
   		companyImg:"/vaibhav-gangrade-react-portfolio/images/handk.png",
-  		companyname:"ITVedant Pvt Limited",
+  		companyname:"H&K Technosoft",
   		cardAlignmentClass:"right-2",
   		WorkDuration:"June 2020-Dec 2020",
   		WorkDescription:`Working as a wordpress developer and responsible for the followoing process in the project like:
   		1)Project Understanding
   		2)Project Devlopment
   		3)Bugs resolve and enchancement
-  		4)Client Reporting via different reporting tools and sype`,
+  		4)Client Reporting via different reporting tools and skype`,
   		companyLink:"https://www.cisin.com/"
   	},
   ],
