@@ -8,7 +8,7 @@ function Skills() {
   return (
     <div className="container-fluid software-skills-container-fluid">
       <div className="container">
-        <h1>Skills</h1>
+        <h1 className='text-center mt-2 mb-2'>Skills</h1>
         <div className="row">
           {skillsData.map((skill, index) => (
             <div className="col-6 col-md-2 skill-section" key={index}>
@@ -24,7 +24,7 @@ function Skills() {
                   textOffsetY={0}
                   riseAnimation
                   waveAnimation
-                  waveFrequency={5}
+                  waveFrequency={4}
                   waveAmplitude={1}
                   circleStyle={{
                         fill: skill.circleColor

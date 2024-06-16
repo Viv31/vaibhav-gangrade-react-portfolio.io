@@ -21,9 +21,9 @@ export default function Header() {
             <li className="nav-item">
               <Link className="nav-link" to="/skills">Skills</Link>
             </li>
-            <li className="nav-item">
+           {/*<li className="nav-item">
               <Link className="nav-link" to="/projects">Projects</Link>
-            </li>
+            </li>*/} 
             <li className="nav-item">
               <Link className="nav-link" to="/hobbies">Hobbies</Link>
             </li>

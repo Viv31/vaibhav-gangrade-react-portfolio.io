@@ -3,7 +3,7 @@ export default function Education(){
 	return (
 		<div className="container-fluid education-container-fluid">
 			<div className="container education_row">
-			<h1>Education</h1>
+			<h1 className='text-center mt-2 mb-2'>Education</h1>
 				<div className="row">
 					<div className="col-md-4 education_div">
 						<div className="card education_card">

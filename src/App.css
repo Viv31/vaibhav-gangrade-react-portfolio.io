@@ -48,9 +48,9 @@ style={{"background":"linear-gradient(0deg, rgba(1, 1, 1, 0.3), rgba(0, 0, 0, 0.
     /*background-image: url("../public/images/skills.jpg");
     background-size: cover;
     background-position: center;*/
-    background:linear-gradient(0deg, rgba(1, 1, 1, 0.3), 
-        rgba(0, 0, 0, 0.3)),
-    url('../public/images/skills.jpg');
+    background:linear-gradient(0deg, rgba(1, 1, 1, 0.7), 
+        rgba(0, 0, 0, 0.6)),
+    url('../public/images/laptoptyping.jpg');
    background-size: cover;
 }
 
@@ -181,18 +181,23 @@ style={{"background":"linear-gradient(0deg, rgba(1, 1, 1, 0.3), rgba(0, 0, 0, 0.
 
 
 @media screen and (min-width:320px) and (max-width:600px){
+    
     .container {
-    height: 950px!important;
+    height: 1350px!important;
 }
 
 /*Footer height*/
 .footer{
-    height: 112px;
+    height: 140px!important;
     padding: 20px;
 }
 
 .hobby-container-fluid{
-    height: 1000px;
+    height: 1000px!important;
+}
+
+.education_div_card3 {
+    margin-top: 118px!important;
 }
 } 
 

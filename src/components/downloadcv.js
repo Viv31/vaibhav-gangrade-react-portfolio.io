@@ -1,7 +1,12 @@
 import { useNavigate } from "react-router-dom";
 import { useState, useEffect } from "react";
 
+import portfolio_data from './jsondata/portfolio_data';
+
 export default function DownloadCV() {
+
+  const { resumeLink } = portfolio_data;
+
   const [cvdownloadcount, setCVDownloadCount] = useState(() => {
     // Retrieve the count from localStorage or default to 0
     return parseInt(localStorage.getItem("cvdownloadcount")) || 0;
@@ -9,7 +14,7 @@ export default function DownloadCV() {
   const navigate = useNavigate();
 
   const handleDownloadedCvCount = (e) => {
-    e.preventDefault();
+   // e.preventDefault();
     // Simulate successful download
     // You may want to replace this with actual logic for downloading the CV
     setTimeout(() => {
@@ -29,10 +34,10 @@ export default function DownloadCV() {
         <div className="row">
           <div className="col-md-4 education_div"></div>
           <div className="col-md-4 download_btn_div">
-            <a href="/vaibhav-gangrade-react-portfolio/images/Vaibhav_Gangrade_web_Developer.docx"
+            <a href={portfolio_data.resumeLink}
               className="btn btn-primary btn-lg download_cv"
               onClick={handleDownloadedCvCount}
-            >
+            download>
               Download CV({cvdownloadcount})
             </a>
             <span id="no_of_downloaded_cv"></span>
