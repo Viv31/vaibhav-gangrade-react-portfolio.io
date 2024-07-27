@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/vaibhav-gangrade-react-portfolio/static/css/main.de25f300.css",
-    "main.js": "/vaibhav-gangrade-react-portfolio/static/js/main.34508b5c.js",
-    "static/js/787.f4195b18.chunk.js": "/vaibhav-gangrade-react-portfolio/static/js/787.f4195b18.chunk.js",
-    "static/media/diploma.jpg": "/vaibhav-gangrade-react-portfolio/static/media/diploma.7c51d6d306f3c02168ef.jpg",
-    "static/media/cv.jpg": "/vaibhav-gangrade-react-portfolio/static/media/cv.55f2fd958f985cb95cd7.jpg",
-    "static/media/table-laptop.jpg": "/vaibhav-gangrade-react-portfolio/static/media/table-laptop.f6f11a2500ed94bd4a97.jpg",
-    "static/media/connect.jpg": "/vaibhav-gangrade-react-portfolio/static/media/connect.81ae284d31fb728f83ef.jpg",
-    "static/media/laptoptyping.jpg": "/vaibhav-gangrade-react-portfolio/static/media/laptoptyping.ba0382e96d67ca23fae4.jpg",
-    "static/media/chessbg.jpg": "/vaibhav-gangrade-react-portfolio/static/media/chessbg.ef193a35f72b8672108a.jpg",
-    "index.html": "/vaibhav-gangrade-react-portfolio/index.html",
-    "main.de25f300.css.map": "/vaibhav-gangrade-react-portfolio/static/css/main.de25f300.css.map",
-    "main.34508b5c.js.map": "/vaibhav-gangrade-react-portfolio/static/js/main.34508b5c.js.map",
-    "787.f4195b18.chunk.js.map": "/vaibhav-gangrade-react-portfolio/static/js/787.f4195b18.chunk.js.map"
+    "main.css": "/static/css/main.c4857f3e.css",
+    "main.js": "/static/js/main.29104e76.js",
+    "static/js/453.20ea6b56.chunk.js": "/static/js/453.20ea6b56.chunk.js",
+    "static/media/bg2.jpg": "/static/media/bg2.7b04d5d34ed9f89e80fd.jpg",
+    "static/media/bg.jpg": "/static/media/bg.9f77b7fff7786bf02f1e.jpg",
+    "static/media/diploma.jpg": "/static/media/diploma.7c51d6d306f3c02168ef.jpg",
+    "static/media/cv.jpg": "/static/media/cv.55f2fd958f985cb95cd7.jpg",
+    "static/media/connect.jpg": "/static/media/connect.81ae284d31fb728f83ef.jpg",
+    "static/media/laptoptyping.jpg": "/static/media/laptoptyping.ba0382e96d67ca23fae4.jpg",
+    "static/media/chessbg.jpg": "/static/media/chessbg.ef193a35f72b8672108a.jpg",
+    "index.html": "/index.html",
+    "main.c4857f3e.css.map": "/static/css/main.c4857f3e.css.map",
+    "main.29104e76.js.map": "/static/js/main.29104e76.js.map",
+    "453.20ea6b56.chunk.js.map": "/static/js/453.20ea6b56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de25f300.css",
-    "static/js/main.34508b5c.js"
+    "static/css/main.c4857f3e.css",
+    "static/js/main.29104e76.js"
   ]
 }
